@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Intranet Mairie</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <h1>Intranet de la Mairie</h1>
+  <nav>
+    <a href="pages/login.html">Connexion</a>
+  </nav>
+</body>
+</html>

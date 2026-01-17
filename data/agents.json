@@ -1,0 +1,12 @@
+[
+  {
+    "nom": "Martin",
+    "prenom": "Claire",
+    "fonction": "Responsable administratif",
+    "service": "Administratif",
+    "telephone": "01 23 45 67 89",
+    "email": "c.martin@mairie.fr",
+    "photo": "../assets/images/agent1.png",
+    "horaires": "8h30 - 17h"
+  }
+]
